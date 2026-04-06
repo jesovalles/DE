@@ -1,0 +1,17 @@
+# Core
+python-dotenv
+requests
+pandas
+psycopg2-binary
+
+# Airflow providers
+apache-airflow-providers-postgres
+apache-airflow-providers-http
+apache-airflow-providers-microsoft-mssql
+
+# SQL Server (mejor que pymssql)
+pyodbc
+
+# Snowflake (solo si lo usas)
+snowflake-connector-python
+snowflake-sqlalchemy
